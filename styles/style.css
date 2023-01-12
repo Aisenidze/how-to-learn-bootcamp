@@ -46,7 +46,6 @@
   font-size: 18px;
   line-height: 25px;
   font-weight: normal;
-  color: black
 }
 
 .header__main-illustration {
@@ -275,9 +274,8 @@ flex-direction: column;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-  color: black;
-  margin-right: 0;
   color: white;
+  margin-right: 0;
   margin-top: 80px;
   z-index: 1;
 }
