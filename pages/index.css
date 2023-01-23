@@ -28,9 +28,7 @@
 @import url(../blocks/page/header/__subtitle/header__subtitle.css);
 @import url(../blocks/page/header/__title/header__title.css);
 @import url(../blocks/page/kaufmann/kaufmann.css);
-@import url(../blocks/page/kaufmann/__section-subtitle/kaufmann__section-subtitle.css);
 @import url(../blocks/page/kaufmann/__section-subtitle/_theme/kaufmann__section-subtitle_theme_dark.css);
-@import url(../blocks/page/kaufmann/__section-title/kaufmann__section-title.css);
 @import url(../blocks/page/kaufmann/__section-title/_theme/kaufmann__section-title_theme_dark.css);
 @import url(../blocks/page/kaufmann/__triangle/kaufmann__triangle.css);
 @import url(../blocks/page/khan/khan.css);
@@ -43,10 +41,9 @@
 @import url(../blocks/page/khan/__quote-author/khan__quote-author.css);
 @import url(../blocks/page/khan/__quote-author-subline/khan__quote-author-subline.css);
 @import url(../blocks/page/khan/__title/khan__title.css);
+@import url(../blocks/page/logo/_place/logo_place_footer.css);
 @import url(../blocks/page/logo/_place/logo_place_header.css);
-@import url(../blocks/page/logo/_place/logo__place_footer.css);
 @import url(../blocks/page/oakley/oakley.css);
-@import url(../blocks/page/oakley/__two-columns/oakley__two-columns.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/resources/resources.css);
 @import url(../blocks/page/resources/__link/resources__link.css);
